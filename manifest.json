@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "EpiSoftColors",
+  "version": "1.0",
+  "description": "Remplace les couleurs vives des intras d'EPITECH par des teintes plus douces.",
+  "content_scripts": [
+    {
+      "matches": ["*://my.epitech.eu/*", "*://*.eval.epitest.eu/*", "*://*.eip.epitech.eu/*"],
+      "css": ["styles.css"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": ["activeTab", "scripting"]
+}

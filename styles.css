@@ -1,0 +1,119 @@
+:root {
+
+  /* Colors used to replace Mantine's default colors */
+
+  --soft-blue: #006d9f;
+  --soft-secondary-blue: #0597cd;
+  --soft-green: #02b36c;
+  --soft-secondary-green: #37c271;
+  --soft-pink: #d777d4;
+  --soft-secondary-pink: #e89de8;
+
+
+  /* BLUE */
+
+  --mantine-primary-color-light-color: var(--soft-blue) !important;
+
+  --mantine-color-blue-filled: var(--soft-blue) !important;
+  --mantine-color-blue-0: var(--soft-blue) !important;
+  --mantine-color-blue-1: var(--soft-blue) !important;
+  --mantine-color-blue-2: var(--soft-blue) !important;
+  --mantine-color-blue-3: var(--soft-blue) !important;
+  --mantine-color-blue-4: var(--soft-blue) !important;
+  --mantine-color-blue-5: var(--soft-blue) !important;
+  --mantine-color-blue-6: var(--soft-blue) !important;
+  --mantine-color-blue-7: var(--soft-blue) !important;
+  --mantine-color-blue-8: var(--soft-blue) !important;
+  --mantine-color-blue-9: var(--soft-blue) !important;
+  --mantine-color-blue-light-0: var(--soft-blue) !important;
+  --mantine-color-blue-light-1: var(--soft-blue) !important;
+  --mantine-color-blue-light-2: var(--soft-blue) !important;
+  --mantine-color-blue-light-3: var(--soft-blue) !important;
+  --mantine-color-blue-light-4: var(--soft-blue) !important;
+  --mantine-color-blue-light-5: var(--soft-blue) !important;
+  --mantine-color-blue-light-6: var(--soft-blue) !important;
+  --mantine-color-blue-light-7: var(--soft-blue) !important;
+  --mantine-color-blue-light-8: var(--soft-blue) !important;
+  --mantine-color-blue-light-9: var(--soft-blue) !important;
+
+  --mantine-color-blue-secondary-0: var(--soft-secondary-blue) !important;
+  --mantine-color-blue-secondary-1: var(--soft-secondary-blue) !important;
+  --mantine-color-blue-secondary-2: var(--soft-secondary-blue) !important;
+  --mantine-color-blue-secondary-3: var(--soft-secondary-blue) !important;
+  --mantine-color-blue-secondary-4: var(--soft-secondary-blue) !important;
+  --mantine-color-blue-secondary-5: var(--soft-secondary-blue) !important;
+  --mantine-color-blue-secondary-6: var(--soft-secondary-blue) !important;
+  --mantine-color-blue-secondary-7: var(--soft-secondary-blue) !important;
+  --mantine-color-blue-secondary-8: var(--soft-secondary-blue) !important;
+  --mantine-color-blue-secondary-9: var(--soft-secondary-blue) !important;
+
+  /* GREEN */
+
+  --mantine-color-green-filled: var(--soft-green) !important;
+  --mantine-color-green-0: var(--soft-green) !important;
+  --mantine-color-green-1: var(--soft-green) !important;
+  --mantine-color-green-2: var(--soft-green) !important;
+  --mantine-color-green-3: var(--soft-green) !important;
+  --mantine-color-green-4: var(--soft-green) !important;
+  --mantine-color-green-5: var(--soft-green) !important;
+  --mantine-color-green-6: var(--soft-green) !important;
+  --mantine-color-green-7: var(--soft-green) !important;
+  --mantine-color-green-8: var(--soft-green) !important;
+  --mantine-color-green-9: var(--soft-green) !important;
+  --mantine-color-green-light-0: var(--soft-green) !important;
+  --mantine-color-green-light-1: var(--soft-green) !important;
+  --mantine-color-green-light-2: var(--soft-green) !important;
+  --mantine-color-green-light-3: var(--soft-green) !important;
+  --mantine-color-green-light-4: var(--soft-green) !important;
+  --mantine-color-green-light-5: var(--soft-green) !important;
+  --mantine-color-green-light-6: var(--soft-green) !important;
+  --mantine-color-green-light-7: var(--soft-green) !important;
+  --mantine-color-green-light-8: var(--soft-green) !important;
+  --mantine-color-green-light-9: var(--soft-green) !important;
+
+  --mantine-color-green-secondary-0: var(--soft-secondary-green) !important;
+  --mantine-color-green-secondary-1: var(--soft-secondary-green) !important;
+  --mantine-color-green-secondary-2: var(--soft-secondary-green) !important;
+  --mantine-color-green-secondary-3: var(--soft-secondary-green) !important;
+  --mantine-color-green-secondary-4: var(--soft-secondary-green) !important;
+  --mantine-color-green-secondary-5: var(--soft-secondary-green) !important;
+  --mantine-color-green-secondary-6: var(--soft-secondary-green) !important;
+  --mantine-color-green-secondary-7: var(--soft-secondary-green) !important;
+  --mantine-color-green-secondary-8: var(--soft-secondary-green) !important;
+  --mantine-color-green-secondary-9: var(--soft-secondary-green) !important;
+
+  /* PINK */
+
+  --mantine-color-pink-filled: var(--soft-pink) !important;
+  --mantine-color-pink-0: var(--soft-pink) !important;
+  --mantine-color-pink-1: var(--soft-pink) !important;
+  --mantine-color-pink-2: var(--soft-pink) !important;
+  --mantine-color-pink-3: var(--soft-pink) !important;
+  --mantine-color-pink-4: var(--soft-pink) !important;
+  --mantine-color-pink-5: var(--soft-pink) !important;
+  --mantine-color-pink-6: var(--soft-pink) !important;
+  --mantine-color-pink-7: var(--soft-pink) !important;
+  --mantine-color-pink-8: var(--soft-pink) !important;
+  --mantine-color-pink-9: var(--soft-pink) !important;
+  --mantine-color-pink-light-0: var(--soft-pink) !important;
+  --mantine-color-pink-light-1: var(--soft-pink) !important;
+  --mantine-color-pink-light-2: var(--soft-pink) !important;
+  --mantine-color-pink-light-3: var(--soft-pink) !important;
+  --mantine-color-pink-light-4: var(--soft-pink) !important;
+  --mantine-color-pink-light-5: var(--soft-pink) !important;
+  --mantine-color-pink-light-6: var(--soft-pink) !important;
+  --mantine-color-pink-light-7: var(--soft-pink) !important;
+  --mantine-color-pink-light-8: var(--soft-pink) !important;
+  --mantine-color-pink-light-9: var(--soft-pink) !important;
+
+  --mantine-color-pink-secondary-0: var(--soft-secondary-pink) !important;
+  --mantine-color-pink-secondary-1: var(--soft-secondary-pink) !important;
+  --mantine-color-pink-secondary-2: var(--soft-secondary-pink) !important;
+  --mantine-color-pink-secondary-3: var(--soft-secondary-pink) !important;
+  --mantine-color-pink-secondary-4: var(--soft-secondary-pink) !important;
+  --mantine-color-pink-secondary-5: var(--soft-secondary-pink) !important;
+  --mantine-color-pink-secondary-6: var(--soft-secondary-pink) !important;
+  --mantine-color-pink-secondary-7: var(--soft-secondary-pink) !important;
+  --mantine-color-pink-secondary-8: var(--soft-secondary-pink) !important;
+  --mantine-color-pink-secondary-9: var(--soft-secondary-pink) !important;
+}

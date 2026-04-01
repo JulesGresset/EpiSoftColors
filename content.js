@@ -1,0 +1,1 @@
+console.log("Extension 'Douceur Epitech' active sur my.epitech.eu");
