@@ -6,7 +6,7 @@ A **Chrome based extension** that replaces bright colors on EPITECH's internal w
 
 ### For Chrome based browsers
 1. **Clone or download** this repository.
-2. Open Brave/Chrome and go to:
+2. Open your browser extensions page
 3. Enable **Developer mode** (toggle in the top-right corner).
 4. Click **Load unpacked** and select the folder containing this extension.
 5. Refresh to see the changes!
