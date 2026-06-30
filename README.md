@@ -1,6 +1,6 @@
 # EpiSoftColors - Browser Extension
 
-A **Chrome based extension** that replaces bright colors on EPITECH's internal websites with softer, more pleasant tones for a better user experience.
+A browser extension that replaces bright colors on EPITECH's internal websites with softer, more pleasant tones for a better user experience. Works on **Chrome based browsers** and on **Firefox**.
 
 ## 🚀 Installation (Development Mode)
 
