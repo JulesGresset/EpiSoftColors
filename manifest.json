@@ -5,7 +5,7 @@
   "description": "Remplace les couleurs vives des intras d'EPITECH par des teintes plus douces.",
   "content_scripts": [
     {
-      "matches": ["*://my.epitech.eu/*", "*://*.eval.epitest.eu/*", "*://*.eip.epitech.eu/*"],
+      "matches": ["*://*.my.epitech.eu/*", "*://*.eval.epitest.eu/*", "*://*.innovation.epitech.eu/*"],
       "css": ["styles.css"],
       "js": ["colors.js", "content.js"]
     }
